@@ -1,0 +1,22 @@
+# 배포 바이너리는 별도 Release 첨부물로만 관리
+*.zip
+*.7z
+*.rar
+*.assets
+*.resS
+*.resource
+*.dat
+*.dll
+*.exe
+*.xor.gz
+level[0-9]*
+data/
+work/
+backups/
+KoreanPatchBackup*/
+GunmanContracts_Data/
+*.log
+.env*
+# 로컬 준비 기록 및 허락 증빙은 공개 저장소에 포함하지 않음
+github-publish-private/
+PUBLISH-CHECKLIST.md
