@@ -1,0 +1,13 @@
+이 패치가 추가하는 한글 글자는 나눔고딕 Regular를 바탕으로 제작했습니다.
+원본: Google Fonts 공식 저장소, ofl/nanumgothic/NanumGothic-Regular.ttf
+https://github.com/google/fonts/tree/main/ofl/nanumgothic
+Copyright (c) 2010, NHN Corporation
+라이선스: SIL Open Font License 1.1 (동봉 OFL.txt 전문 참조)
+
+수정 내용: 게임용 SDF 글자 이미지 생성, 필요한 글자만 포함한 부분집합,
+게임의 기존 폰트 자산에 한글 지원 추가.
+변환된 자산 이름: GMC Korean UI 86 / GMC Korean UI 89 / GMC Korean UI 56126
+나눔고딕에서 파생된 폰트 부분에는 OFL 1.1이 적용됩니다.
+원본 폰트의 예약된 이름을 수정본 이름으로 사용하지 않습니다.
+본 비공식 패치는 네이버 또는 원저작자의 공식 제품이나 보증 대상이 아닙니다.
+게임 원본 자산의 권리는 해당 권리자에게 있으며, OFL이 그 자산의 권리를 부여하지 않습니다.
